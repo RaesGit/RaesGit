@@ -113,20 +113,30 @@ I'm always looking for opportunities to **learn, create, and take on something n
 💗
 
 </div>
-
 ---
 
-## 📊 GitHub Activity
+## 💗 My GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaesGit&show_icons=true&hide_border=true&title_color=E91E8C&icon_color=E91E8C&text_color=555555&bg_color=FCE4EC" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RaesGit&show_icons=true&hide_border=true&rank_icon=github&title_color=E91E8C&icon_color=E91E8C&text_color=444444&bg_color=FFF5FA&border_radius=15" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaesGit&layout=compact&hide_border=true&title_color=E91E8C&text_color=555555&bg_color=FCE4EC" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaesGit&layout=compact&hide_border=true&title_color=E91E8C&text_color=444444&bg_color=FFF5FA&border_radius=15" width="49%" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=RaesGit&hide_border=true&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C&sideLabels=E91E8C&background=FCE4EC&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=RaesGit&hide_border=true&background=FFF5FA&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C&sideLabels=E91E8C&currStreakNum=444444&sideNums=444444&dates=888888&border_radius=15" width="70%" />
 
 </div>
+
+---
+
+<div align="center">
+
+### ✨ A little bit of what I do
+
+💻 **Code**   •   🎨 **Design**   •   🎮 **Create**   •   🌷 **Explore**
+
+</div>
+
 
