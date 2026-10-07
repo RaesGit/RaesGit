@@ -113,3 +113,20 @@ I'm always looking for opportunities to **learn, create, and take on something n
 💗
 
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaesGit&show_icons=true&hide_border=true&title_color=E91E8C&icon_color=E91E8C&text_color=555555&bg_color=FCE4EC" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaesGit&layout=compact&hide_border=true&title_color=E91E8C&text_color=555555&bg_color=FCE4EC" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=RaesGit&hide_border=true&ring=E91E8C&fire=E91E8C&currStreakLabel=E91E8C&sideLabels=E91E8C&background=FCE4EC&dates=555555" />
+
+</div>
+
